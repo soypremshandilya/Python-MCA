@@ -1,10 +1,6 @@
 # MCA
 This repository contains a collection of code samples, projects, and assignments developed as part of my coursework at UPES (University of Petroleum and Energy Studies). The code covers a range of topics and technologies relevant to my studies, including programming languages, algorithms, data structures, and more.
 
-# UPES College Code Repository
-
-Welcome to my UPES College Code Repository! This repository is a collection of code, projects, and assignments that I have developed as part of my coursework at UPES (University of Petroleum and Energy Studies). The aim of this repository is to showcase my learning journey and provide examples of my work.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
